@@ -62,7 +62,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     if query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("👮 Aᴅᴍɪɴꜱ", url="https://t.me/Flame_Updates/7"),
+                InlineKeyboardButton("👮 Aᴅᴍɪɴꜱ", url="https://t.me/attitudeLover4141/54"),
                 InlineKeyboardButton("🗨️ Uꜱᴇʀꜱ", callback_data="users"),
             ],
             [
@@ -98,7 +98,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton(" Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("🤖 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/S780821/Flame-Music"),
+                InlineKeyboardButton(" Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/Yarri_ka_Circle"),
             ],
             [
                 InlineKeyboardButton("🤔 Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -195,7 +195,7 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton(" Oꜰꜰɪᴄɪᴀʟ Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("🤖 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/S780821/Flame-Music"),
+                InlineKeyboardButton(" Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/Yarri_ka_Circle"),
             ],
             [
                 InlineKeyboardButton("🤔 Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -210,7 +210,7 @@ async def help(client: Client, message: Message):
     self.username = get_me.username
     buttons = [
             [
-                InlineKeyboardButton("👮 Aᴅᴍɪɴꜱ", url="https://t.me/Flame_Updates/7"),
+                InlineKeyboardButton("👮 Aᴅᴍɪɴꜱ", url="https://t.me/attitudeLover4141/54"),
                 InlineKeyboardButton("🗨️ Uꜱᴇʀꜱ", callback_data="users"),
             ],
             [
@@ -218,7 +218,7 @@ async def help(client: Client, message: Message):
                 InlineKeyboardButton("🗨️ Sᴘᴀᴍ", callback_data="spam"),
             ],
             [
-                InlineKeyboardButton("🤖 ᴏᴡɴᴇʀ", url="t.me/xmartperson"),
+                InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/ritik_kashyap_7"),
             ],
             [
                 InlineKeyboardButton("🔙 Bᴀᴄᴋ", callback_data="home"),
