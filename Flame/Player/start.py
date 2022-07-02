@@ -70,7 +70,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("🗨️ Sᴘᴀᴍ", callback_data="spam"),
             ],
             [
-                InlineKeyboardButton("🤖 ᴏᴡɴᴇʀ", url="t.me/xmartperson"),
+                InlineKeyboardButton("🤖 ᴏᴡɴᴇʀ", url="t.me/ritik_kashyap_7"),
             ],
             [
                 InlineKeyboardButton("🔙 Bᴀᴄᴋ", callback_data="home"),
