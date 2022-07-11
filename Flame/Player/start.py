@@ -70,7 +70,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("🗨️ Sᴘᴀᴍ", callback_data="spam"),
             ],
             [
-                InlineKeyboardButton("🤖 ᴏᴡɴᴇʀ", url="t.me/ritik_kashyap_7"),
+                InlineKeyboardButton("💖 ʙʜᴀɪ", url="t.me/Ssain45557"),
             ],
             [
                 InlineKeyboardButton("🔙 Bᴀᴄᴋ", callback_data="home"),
@@ -98,7 +98,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton(" Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton(" Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/Yarri_ka_Circle"),
+                InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/ritik_kashyap_7"),
             ],
             [
                 InlineKeyboardButton("🤔 Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -195,7 +195,7 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton(" Oꜰꜰɪᴄɪᴀʟ Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton(" Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/Yarri_ka_Circle"),
+                InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/ritik_kashyap_7"),
             ],
             [
                 InlineKeyboardButton("🤔 Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -218,7 +218,7 @@ async def help(client: Client, message: Message):
                 InlineKeyboardButton("🗨️ Sᴘᴀᴍ", callback_data="spam"),
             ],
             [
-                InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/ritik_kashyap_7"),
+                InlineKeyboardButton("💖 ʙʜᴀɪ", url="t.me/Ssain45557"),
             ],
             [
                 InlineKeyboardButton("🔙 Bᴀᴄᴋ", callback_data="home"),
