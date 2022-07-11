@@ -31,11 +31,11 @@ async def alive(event):
                                   caption=FLAME,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/flame_updates"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Flame_project")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/attitudeLover4141"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Yarri_ka_Circle")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/S780821/Flame-Music")
+        Button.url("👑 ᴏᴡɴᴇʀ", "t.me/ritik_kashyap_7")
         ]
         ]
         )
