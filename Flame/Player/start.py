@@ -98,7 +98,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton(" Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/@Muskan2341"),
+                InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/Muskan2341"),
             ],
             [
                 InlineKeyboardButton("⚒️ ᴄʀᴇᴀᴛᴇʀ", url="t.me/ritik_kashyap_7"),
@@ -198,7 +198,7 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton(" Oꜰꜰɪᴄɪᴀʟ Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/@Muskan2341"),
+                InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="t.me/Muskan2341"),
             ],
             [
                 InlineKeyboardButton("⚒️ ᴄʀᴇᴀᴛᴇʀ", url="t.me/ritik_kashyap_7"),
