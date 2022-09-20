@@ -146,7 +146,7 @@ async def play(c: Client, m: Message):
                       InlineKeyboardButton(text="✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
                       InlineKeyboardButton(text="📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
                   ],[
-                      InlineKeyboardButton("🗑", callback_data="cls")],
+                      InlineKeyboardButton("⚒️ ᴄʀᴇᴀᴛᴇʀ", url=f"t.me/Ritik_kashyap_7")],
                   ]
              )
     if m.sender_chat:
@@ -258,7 +258,7 @@ async def play(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🗑 Close", callback_data="cls")
+                            InlineKeyboardButton("⚒️ ᴄʀᴇᴀᴛᴇʀ", url="t.me/Ritik_kashyap_7")
                         ]
                     ]
                 )
