@@ -9,7 +9,7 @@
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
 <p align="center">
     <img src="https://img.shields.io/github/stars/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/forks/love-Creation-7/Love-Music?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/github/watchers/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Watchers">
     <img src="https://img.shields.io/github/license/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/commit-activity/w/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Commit Activity">
