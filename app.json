@@ -2,7 +2,7 @@
     "name": "ғʟᴀᴍᴇ Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["FLAME", "FLAME-MUSIC", "music", "voice chat", "telegram", "Rocks", "RockMusic", "Private Music"],
-    "repository": "https://github.com/S780821/FLAME-MUSIC",
+    "repository": "https://github.com/love-Creation-7/Love-Music/tree/Love%E2%9D%A4%EF%B8%8F",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
