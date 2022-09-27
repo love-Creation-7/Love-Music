@@ -7,7 +7,18 @@
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=love-Creation-7&repo=Love-Music &theme=dark)
+<p align="center">
+    <img src="https://img.shields.io/github/stars/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/license/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/commit-activity/w/Ritikkashyap6/Love_Music_7?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/Ritikkashyap6/Love_Music_7/commits/Ritikkashyap6"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/contributors/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Contributors">
+    <a href="https://github.com/Ritikkashyap6/Love_Music_7/issues"> <img src="https://img.shields.io/github/issues/Ritikkashyap6/Love_Music_7?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Ritikkashyap6/Love_Music_7"> <img src="https://img.shields.io/github/repo-size/Ritikkashyap6/Love_Music_7?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
+</p>
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
